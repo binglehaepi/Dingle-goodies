@@ -1,4 +1,25 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "pack-bingle-vol1",
+      "type": "stickerpack",
+      "name": "빙글 스티커팩 Vol.1",
+      "description": "딩글 공식 스티커 8종 — 움직이는 스티커 포함",
+      "version": "1.0.0",
+      "author": "빙글해피",
+      "authorHandle": "binglehaepi",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/bingle-vol1.png",
+      "files": [
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/01.gif", "name": "bingle-01.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/02.gif", "name": "bingle-02.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/03.gif", "name": "bingle-03.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/04.gif", "name": "bingle-04.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/05.gif", "name": "bingle-05.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/06.gif", "name": "bingle-06.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/07.gif", "name": "bingle-07.gif" },
+        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/08.png", "name": "bingle-08.png" }
+      ]
+    }
+  ]
 }

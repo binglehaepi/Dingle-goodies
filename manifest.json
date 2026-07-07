@@ -5,8 +5,8 @@
       "id": "pack-jjabu",
       "type": "stickerpack",
       "name": "고양이 짜부",
-      "description": "딩글 공식 스티커 31종",
-      "version": "1.0.0",
+      "description": "딩글 공식 스티커 32종",
+      "version": "1.0.1",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
       "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/jjabu.png",
@@ -134,6 +134,10 @@
         {
           "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/31.png",
           "name": "jjabu-31.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/32.png",
+          "name": "jjabu-32.png"
         }
       ]
     },
@@ -141,8 +145,8 @@
       "id": "pack-naji",
       "type": "stickerpack",
       "name": "금붕어 나지",
-      "description": "딩글 공식 스티커 23종 — 움직이는 스티커 포함",
-      "version": "1.0.0",
+      "description": "딩글 공식 스티커 24종 — 움직이는 스티커 포함",
+      "version": "1.0.1",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
       "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/naji.gif",
@@ -238,6 +242,10 @@
         {
           "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/23.gif",
           "name": "naji-23.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/24.gif",
+          "name": "naji-24.gif"
         }
       ]
     },
@@ -245,8 +253,8 @@
       "id": "pack-dochi",
       "type": "stickerpack",
       "name": "도치",
-      "description": "딩글 공식 스티커 13종 — 움직이는 스티커 포함",
-      "version": "1.0.0",
+      "description": "딩글 공식 스티커 14종 — 움직이는 스티커 포함",
+      "version": "1.0.1",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
       "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/dochi.gif",
@@ -302,6 +310,10 @@
         {
           "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/13.gif",
           "name": "dochi-13.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/14.gif",
+          "name": "dochi-14.gif"
         }
       ]
     },
@@ -309,8 +321,8 @@
       "id": "pack-ttungnyang",
       "type": "stickerpack",
       "name": "뚱냥이",
-      "description": "딩글 공식 스티커 3종 — 움직이는 스티커 포함",
-      "version": "1.0.0",
+      "description": "딩글 공식 스티커 4종 — 움직이는 스티커 포함",
+      "version": "1.0.1",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
       "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/ttungnyang.gif",
@@ -326,6 +338,10 @@
         {
           "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/ttungnyang/03.gif",
           "name": "ttungnyang-03.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/ttungnyang/04.gif",
+          "name": "ttungnyang-04.gif"
         }
       ]
     },
@@ -333,8 +349,8 @@
       "id": "pack-mya",
       "type": "stickerpack",
       "name": "먀",
-      "description": "딩글 공식 스티커 25종",
-      "version": "1.0.0",
+      "description": "딩글 공식 스티커 26종",
+      "version": "1.0.1",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
       "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/mya.png",
@@ -438,6 +454,10 @@
         {
           "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/25.png",
           "name": "mya-25.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/26.png",
+          "name": "mya-26.png"
         }
       ]
     }

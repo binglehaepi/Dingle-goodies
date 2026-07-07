@@ -2,23 +2,443 @@
   "version": 1,
   "items": [
     {
-      "id": "pack-bingle-vol1",
+      "id": "pack-jjabu",
       "type": "stickerpack",
-      "name": "빙글 스티커팩 Vol.1",
-      "description": "딩글 공식 스티커 8종 — 움직이는 스티커 포함",
-      "version": "1.0.1",
+      "name": "고양이 짜부",
+      "description": "딩글 공식 스티커 31종",
+      "version": "1.0.0",
       "author": "빙글해피",
       "authorHandle": "binglehaepi",
-      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/bingle-vol1.png",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/jjabu.png",
       "files": [
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/01.gif", "name": "bingle-01.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/02.gif", "name": "bingle-02.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/03.gif", "name": "bingle-03.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/04.gif", "name": "bingle-04.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/05.gif", "name": "bingle-05.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/06.gif", "name": "bingle-06.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/07.gif", "name": "bingle-07.gif" },
-        { "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/bingle-vol1/08.png", "name": "bingle-08.png" }
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/01.png",
+          "name": "jjabu-01.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/02.png",
+          "name": "jjabu-02.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/03.png",
+          "name": "jjabu-03.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/04.png",
+          "name": "jjabu-04.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/05.png",
+          "name": "jjabu-05.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/06.png",
+          "name": "jjabu-06.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/07.png",
+          "name": "jjabu-07.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/08.png",
+          "name": "jjabu-08.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/09.png",
+          "name": "jjabu-09.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/10.png",
+          "name": "jjabu-10.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/11.png",
+          "name": "jjabu-11.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/12.png",
+          "name": "jjabu-12.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/13.png",
+          "name": "jjabu-13.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/14.png",
+          "name": "jjabu-14.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/15.png",
+          "name": "jjabu-15.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/16.png",
+          "name": "jjabu-16.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/17.png",
+          "name": "jjabu-17.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/18.png",
+          "name": "jjabu-18.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/19.png",
+          "name": "jjabu-19.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/20.png",
+          "name": "jjabu-20.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/21.png",
+          "name": "jjabu-21.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/22.png",
+          "name": "jjabu-22.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/23.png",
+          "name": "jjabu-23.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/24.png",
+          "name": "jjabu-24.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/25.png",
+          "name": "jjabu-25.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/26.png",
+          "name": "jjabu-26.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/27.png",
+          "name": "jjabu-27.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/28.png",
+          "name": "jjabu-28.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/29.png",
+          "name": "jjabu-29.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/30.png",
+          "name": "jjabu-30.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/jjabu/31.png",
+          "name": "jjabu-31.png"
+        }
+      ]
+    },
+    {
+      "id": "pack-naji",
+      "type": "stickerpack",
+      "name": "금붕어 나지",
+      "description": "딩글 공식 스티커 23종 — 움직이는 스티커 포함",
+      "version": "1.0.0",
+      "author": "빙글해피",
+      "authorHandle": "binglehaepi",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/naji.gif",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/01.gif",
+          "name": "naji-01.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/02.png",
+          "name": "naji-02.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/03.png",
+          "name": "naji-03.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/04.png",
+          "name": "naji-04.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/05.png",
+          "name": "naji-05.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/06.png",
+          "name": "naji-06.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/07.png",
+          "name": "naji-07.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/08.png",
+          "name": "naji-08.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/09.png",
+          "name": "naji-09.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/10.png",
+          "name": "naji-10.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/11.png",
+          "name": "naji-11.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/12.png",
+          "name": "naji-12.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/13.png",
+          "name": "naji-13.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/14.png",
+          "name": "naji-14.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/15.png",
+          "name": "naji-15.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/16.png",
+          "name": "naji-16.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/17.png",
+          "name": "naji-17.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/18.png",
+          "name": "naji-18.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/19.png",
+          "name": "naji-19.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/20.png",
+          "name": "naji-20.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/21.png",
+          "name": "naji-21.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/22.png",
+          "name": "naji-22.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/naji/23.gif",
+          "name": "naji-23.gif"
+        }
+      ]
+    },
+    {
+      "id": "pack-dochi",
+      "type": "stickerpack",
+      "name": "도치",
+      "description": "딩글 공식 스티커 13종 — 움직이는 스티커 포함",
+      "version": "1.0.0",
+      "author": "빙글해피",
+      "authorHandle": "binglehaepi",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/dochi.gif",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/01.gif",
+          "name": "dochi-01.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/02.gif",
+          "name": "dochi-02.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/03.gif",
+          "name": "dochi-03.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/04.gif",
+          "name": "dochi-04.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/05.gif",
+          "name": "dochi-05.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/06.gif",
+          "name": "dochi-06.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/07.gif",
+          "name": "dochi-07.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/08.gif",
+          "name": "dochi-08.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/09.gif",
+          "name": "dochi-09.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/10.gif",
+          "name": "dochi-10.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/11.gif",
+          "name": "dochi-11.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/12.gif",
+          "name": "dochi-12.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/dochi/13.gif",
+          "name": "dochi-13.gif"
+        }
+      ]
+    },
+    {
+      "id": "pack-ttungnyang",
+      "type": "stickerpack",
+      "name": "뚱냥이",
+      "description": "딩글 공식 스티커 3종 — 움직이는 스티커 포함",
+      "version": "1.0.0",
+      "author": "빙글해피",
+      "authorHandle": "binglehaepi",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/ttungnyang.gif",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/ttungnyang/01.gif",
+          "name": "ttungnyang-01.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/ttungnyang/02.gif",
+          "name": "ttungnyang-02.gif"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/ttungnyang/03.gif",
+          "name": "ttungnyang-03.gif"
+        }
+      ]
+    },
+    {
+      "id": "pack-mya",
+      "type": "stickerpack",
+      "name": "먀",
+      "description": "딩글 공식 스티커 25종",
+      "version": "1.0.0",
+      "author": "빙글해피",
+      "authorHandle": "binglehaepi",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/mya.png",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/01.png",
+          "name": "mya-01.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/02.png",
+          "name": "mya-02.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/03.png",
+          "name": "mya-03.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/04.png",
+          "name": "mya-04.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/05.png",
+          "name": "mya-05.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/06.png",
+          "name": "mya-06.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/07.png",
+          "name": "mya-07.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/08.png",
+          "name": "mya-08.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/09.png",
+          "name": "mya-09.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/10.png",
+          "name": "mya-10.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/11.png",
+          "name": "mya-11.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/12.png",
+          "name": "mya-12.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/13.png",
+          "name": "mya-13.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/14.png",
+          "name": "mya-14.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/15.png",
+          "name": "mya-15.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/16.png",
+          "name": "mya-16.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/17.png",
+          "name": "mya-17.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/18.png",
+          "name": "mya-18.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/19.png",
+          "name": "mya-19.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/20.png",
+          "name": "mya-20.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/21.png",
+          "name": "mya-21.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/22.png",
+          "name": "mya-22.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/23.png",
+          "name": "mya-23.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/24.png",
+          "name": "mya-24.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs/mya/25.png",
+          "name": "mya-25.png"
+        }
       ]
     }
   ]

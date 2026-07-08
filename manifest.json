@@ -460,6 +460,49 @@
           "name": "mya-26.png"
         }
       ]
+    },
+    {
+      "id": "testpack",
+      "type": "stickerpack",
+      "name": "testpack",
+      "description": "스티커팩 업로드 테스트용입니다",
+      "version": "1.0.0",
+      "protected": true,
+      "author": "test",
+      "authorHandle": "testtest",
+      "thumbnail": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/thumbs/testpack.webp",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--oh9e7lcg_400x400-1.dga",
+          "name": "testpack--oh9e7lcg_400x400-1.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--oh9e7lcg_400x400-1.webp"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--kakaotalk_20260622_134748201.dga",
+          "name": "testpack--kakaotalk_20260622_134748201.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--kakaotalk_20260622_134748201.webp"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--kakaotalk_20260622_134748201_01.dga",
+          "name": "testpack--kakaotalk_20260622_134748201_01.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--kakaotalk_20260622_134748201_01.webp"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--kakaotalk_20260622_134748201_02.dga",
+          "name": "testpack--kakaotalk_20260622_134748201_02.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--kakaotalk_20260622_134748201_02.webp"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--kakaotalk_20260622_134748201_03.dga",
+          "name": "testpack--kakaotalk_20260622_134748201_03.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--kakaotalk_20260622_134748201_03.webp"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/testpack--kakaotalk_20260622_134748201_04.dga",
+          "name": "testpack--kakaotalk_20260622_134748201_04.dga",
+          "preview": "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/packs-protected/testpack/previews/testpack--kakaotalk_20260622_134748201_04.webp"
+        }
+      ]
     }
   ]
 }

@@ -2,14 +2,6 @@
   "version": 1,
   "notices": [
     {
-      "id": "2026-07-07-test",
-      "date": "2026-07-07",
-      "pinned": true,
-      "title": "test",
-      "body": "test",
-      "media": []
-    },
-    {
       "id": "2026-07-07-v120-release",
       "date": "2026-07-07",
       "pinned": true,

@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": "2026-07-09-notice",
+      "date": "2026-07-09",
+      "pinned": false,
+      "title": "테스트입니다",
+      "body": "# 테스트입니다\n\n##테스트\n\n**굵은 글씨**\n- 목록 항목\n- 목록 항목",
+      "media": [
+        "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/notices/2026-07-09-notice/oh9e7lcg_400x400-1.jpg"
+      ]
+    },
+    {
       "id": "2026-07-07-v120-release",
       "date": "2026-07-07",
       "pinned": true,

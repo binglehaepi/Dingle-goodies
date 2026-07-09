@@ -2,16 +2,6 @@
   "version": 1,
   "notices": [
     {
-      "id": "2026-07-08-ddd",
-      "date": "2026-07-08",
-      "pinned": false,
-      "title": "ddd",
-      "body": "dd\n# 큰 제\n## 소제목목da**굵은 글씨**\n- 목록 항목",
-      "media": [
-        "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/notices/2026-07-08-ddd/img-1.gif"
-      ]
-    },
-    {
       "id": "2026-07-08-notice",
       "date": "2026-07-08",
       "pinned": false,

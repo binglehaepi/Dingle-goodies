@@ -2,17 +2,6 @@
   "version": 1,
   "notices": [
     {
-      "id": "2026-07-08-notice",
-      "date": "2026-07-08",
-      "pinned": false,
-      "title": "테스트입니다",
-      "body": "# 테스트\n\n## 딩글 테스트\n\n안녕하세요. **테스트입니다**\n\n\n\n- 목록 항목1\n- 목록 항목2\n- 목록 항목3",
-      "media": [
-        "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/notices/2026-07-08-notice/img-1.gif",
-        "https://raw.githubusercontent.com/binglehaepi/Dingle-goodies/main/notices/2026-07-08-notice/oh9e7lcg_400x400-1.jpg"
-      ]
-    },
-    {
       "id": "2026-07-07-v120-release",
       "date": "2026-07-07",
       "pinned": true,
